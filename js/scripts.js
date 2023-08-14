@@ -26,9 +26,9 @@ if (wManager.view.isPost) {
     <div class="ring-alo-ph-img-circle">
       <a href="tel:Tạm Nghỉ">
         <noscript>
-          <img class="lazy" src="https://gaigoidep.us/wp-content/goi.png" alt="G">
+          <img class="lazy" src="https://cdn.jsdelivr.net/gh/terumikun/gaigoidepus/image/goi.png" alt="G">
         </noscript>
-        <img class="lazy lazyloaded" src="https://gaigoidep.us/wp-content/goi.png" data-src="https://gaigoidep.us/wp-content/goi.png" alt="G">
+        <img class="lazy lazyloaded" src="https://cdn.jsdelivr.net/gh/terumikun/gaigoidepus/image/goi.png" data-src="https://cdn.jsdelivr.net/gh/terumikun/gaigoidepus/image/goi.png" alt="G">
       </a>
     </div>
   </div>
